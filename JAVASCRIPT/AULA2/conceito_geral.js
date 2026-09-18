@@ -39,5 +39,6 @@ const pi = 3.14;
 // snake Case --- 
 // Todas as palavras minúsculas, separadas por underline
 // let nome_completo; let total_vendas;
-        
+
+
         
