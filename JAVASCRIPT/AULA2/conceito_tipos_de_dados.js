@@ -24,3 +24,18 @@ console.log(typeof mensagem);
 let mensagem2 = "Viana: Jarvis a nota para seu trabalho é ";
 let soma = 5 + 5;
 console.log(mensagem2 + soma);
+
+//boolean (verdadeiro ou falso)
+
+// pode ter apenas dois valores, true or false, (verdadeiro ou falso)
+
+let maiorDeIdade = true
+let menorDeIdade = false
+
+
+console.log(maiorDeIdade);
+console.log(menorDeIdade);
+
+let idade = 20;
+let podeDirigir = idade >= 18;
+console.log(podeDirigir);
