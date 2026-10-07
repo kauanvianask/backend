@@ -1,0 +1,16 @@
+{
+   "Cachorro": {
+      "nome": "Scooby",
+      "idade": 5,
+      "raca": "Pastor Alemão",
+      "vacinado": true,
+      "peso": 20.5,
+      "brinquedos": ["bola", "osso", "corda"],
+      "cor": "Marrom",
+      "dono": {
+            "nome": "Viana",
+            "idade": 17,
+            "telefone": "11971064918"
+            }
+      }
+   }
